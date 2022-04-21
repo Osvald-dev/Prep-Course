@@ -1,0 +1,1 @@
+arrays: Imaginemos a un array como una estantería , en la cual podemos guardar y acomodar cosas.
