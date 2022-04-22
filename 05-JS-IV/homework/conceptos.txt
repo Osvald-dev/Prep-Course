@@ -1,0 +1,5 @@
+	* Objetos: Es tal como en la realidad un objeto. Por ejemplo un auto, una moto
+    * Propiedades: Son las características que poseen los objetos. Por ej: "rojo", modelo 2020, "dirección hidraulica"
+	* Métodos: Son las funciones que cumplen los objetos. Por ej: "acelerar", "frenar", "doblar a la izquierda", etc.
+	* Bucle `for…in`: Repite una función hasta un momento determinado, Por ej: "El auto funciona hasta que se queda sin combustible"
+	* Notación de puntos vs notación de corchetes: 
