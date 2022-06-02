@@ -13,11 +13,12 @@
  
  
  h1{
-     color: darkcyan;
+     color: rgb(183, 249, 249);
      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
  img {
      width: 400px;
+     margin:1rem;
  }
  .divClass{
     font-size: 22px;
